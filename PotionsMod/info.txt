@@ -1,0 +1,44 @@
+Potions mod by OMGFTW (WIP)
+
+Current potions:
+	Small Health potion
+	Large Health Potion
+	Blink Potion
+	Long Arm Potion
+	Immortality Potion
+
+
+Potion effects:
+	Small health Potion - Heals for 2.5 hearts.
+	Large Health Potion - Heals for 5 hearts.
+	Blink Potion - Boosts you toward the direction you're moving.
+	Long Arm Potion - Allows you to destroy and build blocks from a distance for 30 seconds.
+	Immortality Potion - No matter how much damage you take, you won't die. Lasts 60 seconds.
+	
+Potion Recipes:
+	Key: L = Leaves, X = Empty space, G = Glass, C = Coal, S = Small Healing Potion, P = Large Healing Potion
+	
+	Small health Potion:
+	XXX      XXX
+	XLX  or  XPX
+	XGX      XXX
+	
+	Large healing Potion:
+	XXX
+	XSX
+	XSX
+	
+	Blink Potion:
+	XXX
+	XCX
+	XGX
+	
+	Long Arm Potion:
+	XLX
+	XLX
+	XGX
+	
+	Immortality Potion:
+	PPP
+	PXP
+	PPP
