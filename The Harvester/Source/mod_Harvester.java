@@ -2,7 +2,7 @@ package net.minecraft.src;
 
 public class mod_Harvester extends BaseMod
 {
-		public static Item Harvester = (new ItemHarvester(458, EnumToolMaterial.EMERALD));
+		public static Item Harvester = (new ItemHarvester(455, EnumToolMaterial.EMERALD));
         public String Version()
         {
                 return "1.7.3";
