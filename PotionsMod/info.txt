@@ -1,5 +1,15 @@
 Potions mod by OMGFTW (WIP)
 
+
+Installation:
+This mod requires Risugami's modloader (http://www.google.com/search?q=modloader).
+Be sure to delete the META-INF folder!
+Copy ALL the files in the "Place-In-Minecraft.jar" folder into your minecraft.jar located at "%appdata%\.minecraft\bin"
+Run the game.
+Enjoy!
+
+
+USAGE:
 Current potions:
 	Small Health potion
 	Large Health Potion
