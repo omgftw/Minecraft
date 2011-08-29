@@ -34,7 +34,7 @@ public class mod_Potions extends BaseMod {
 		
 		//recipes
 		ModLoader.AddRecipe(new ItemStack(HealthPotionSmall, 1), new Object[] {
-        "X", "#", Character.valueOf('X'), Block.leaves, Character.valueOf('#'), Block.glass
+        "X", "#", Character.valueOf('X'), Item.seeds, Character.valueOf('#'), Block.glass
 		});
 		ModLoader.AddRecipe(new ItemStack(HealthPotionSmall, 2), new Object[] {
         "X", Character.valueOf('X'), HealthPotionLarge
@@ -46,7 +46,7 @@ public class mod_Potions extends BaseMod {
 	        "X", "X", "#", Character.valueOf('X'), Block.leaves, Character.valueOf('#'), Block.glass
 			});
 		ModLoader.AddRecipe(new ItemStack(blinkPotion, 10), new Object[] {
-	        "X", "#", Character.valueOf('X'), Item.coal, Character.valueOf('#'), Block.glass
+	        "X", "#", Character.valueOf('X'), Block.leaves, Character.valueOf('#'), Block.glass
 			});
 		ModLoader.AddRecipe(new ItemStack(immPotion, 1), new Object[] {
 	        "XXX", "X X", "XXX", Character.valueOf('X'), HealthPotionLarge
