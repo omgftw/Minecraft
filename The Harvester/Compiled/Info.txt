@@ -1,0 +1,27 @@
+Harvester Mod by OMGFTW
+
+Installation Instructions:
+You must have modloader installed. (http://www.google.com/search?q=modloader)
+Copy all the files into your minecraft.jar
+Enjoy!
+
+The Harvester is a tool made by combining a pickaxe, an axe, and a shovel. It can harvest
+any material that the 3 tools used to make it can harvest(stones, wood, dirt, etc.). It
+has the durability of the 3 tools used to make it combined.
+
+To make a harvester:
+(the 3 tools must be the same material)
+Key: X = empty Space, P = pickaxe, A = Axe, S = Shovel
+
+XPX
+XAX
+XSX
+
+To make the Ultimate Harvester, you must use this recipe:
+(all tools must be diamond)
+(Ultimate Harvester works exactly like the Diamond harvester but has increased durability.)
+Key: X = empty Space, P = pickaxe, A = Axe, S = Shovel, R = Redstone dust
+
+RPR
+RAR
+RSR
