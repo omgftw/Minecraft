@@ -1,0 +1,8 @@
+name: StoveTop
+main: com.omggamesftw.stovetop.StoveTop
+version: 1.0.0
+commands:
+   stovetop:
+      description: Allows you to cook items, by placing them above certain blocks.
+      usage: /stovetop or /st or /cook
+      aliases: [st, cook]

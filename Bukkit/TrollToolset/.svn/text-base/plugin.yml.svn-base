@@ -1,0 +1,8 @@
+name: TrollToolset
+main: com.omggamesftw.trolltoolset.TrollToolset
+version: Alpha 1.0.0
+commands:
+   trolltoolset:
+      description: This is the main Troll Toolset command.
+      usage: /trolltoolset help or /tt help
+      aliases: [tt]

@@ -1,0 +1,10 @@
+name: Scripty
+main: com.omggamesftw.scripty.Scripty
+version: Alpha 1.0.0
+commands:
+   scripty:
+      description: This is the main scripty command.
+      usage: /scripty help or /s help
+      permission: scripty.all
+      permission-message: You don't have <permission>
+      aliases: [s]

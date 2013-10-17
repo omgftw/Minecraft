@@ -1,0 +1,28 @@
+name: SeeingEye
+main: com.omggamesftw.seeingeye.SeeingEye
+version: Alpha 1.0.0
+commands:
+   se:
+      description: Main plugin command.
+      usage: /se help
+   openinv:
+      description: Opens another players inventory.
+      usage: /openinv player-name
+   watch:
+      description: Start watching someone.
+      usage: /watch player-name
+   stopwatch:
+      description: Stops spectating.
+      usage: /stopwatch
+   vanish:
+      description: Makes you invisible.
+      usage: /vanish
+   vanishstatus:
+      description: Shows visibility status of all players.
+      usage: /vanishstatus
+   watchstatus:
+      description: Shows a list of player that are currently spectating someone.
+      usage: /watchstatus
+   forcechat:
+      description: Forces a player to say the given text or execute the given command.
+      usage: /forechat

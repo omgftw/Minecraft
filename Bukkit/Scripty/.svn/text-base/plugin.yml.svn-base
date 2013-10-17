@@ -1,0 +1,10 @@
+name: Scripty
+main: com.omggamesftw.scripty.Scripty
+version: Alpha 1.0.0
+commands:
+   scripty:
+      description: This is a demo command.
+      usage: /scripty help or /s help
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
+      aliases: [s]

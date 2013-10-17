@@ -1,0 +1,8 @@
+name: GameMode Lite
+main: com.omggamesftw.gamemodelite.GameModeLite
+version: 1.0.0
+commands:
+   gamemode:
+      description: Allows you to easily switch your gamemode.
+      usage: /gamemode or /gm
+      aliases: [gm]

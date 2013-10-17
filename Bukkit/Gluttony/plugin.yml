@@ -1,0 +1,9 @@
+name: Gluttony
+main: com.omggamesftw.gluttony.Gluttony
+version: Alpha 1.0.0
+commands:
+   gluttony:
+      description: Gluttony is enabled and active.
+      usage: /gluttony
+      permission: gluttony
+      permission-message: You don't have <permission>

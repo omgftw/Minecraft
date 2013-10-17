@@ -1,0 +1,15 @@
+name: PlayerPerks
+main: com.omggamesftw.playerperks.PlayerPerks
+version: Alpha 1.0.0
+commands:
+   nightvision:
+      description: Gives the player night vision.
+      usage: /nightvision or /nv
+      permission: playerperks.nightvision
+      permission-message: You do not have access to that command.
+      aliases: [nv]
+   speed:
+      description: Gives the player a speed boost.
+      usage: /speed
+      permission: playerperks.speed
+      permission-message: You do not have access to that command.

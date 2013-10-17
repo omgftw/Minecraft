@@ -1,0 +1,41 @@
+Commands:
+    Notes (not a command):
+        The player-name part of any command can be replace with "all" or "*" to use it on all online players.
+        You can type a command without any parameters (Ex: /tt chatter) to see the description and usage information for that command.
+    
+    Help:
+        Description: Lists all tools available to you.
+        Usage: /tt help
+    
+    Chatter:
+        Description: Forces the specified player to say something or execute a command.
+        Usage: /tt chatter player-name message-to-send
+        Usage Example: /tt chatter mcguy I love My Little Pony!
+        Example Effect: Would force mcguy to say "I love My Little Pony!"
+
+    Damage:
+        Description: Causes a certain amount of damage to the specified player.
+        Usage: /tt damage player-name damage-amount(optional 0-20, default: half a heart)
+        Usage Example: /tt damage mcguy 10
+        Example Effect: mcguy would lose half his health.
+    
+    Dropper:
+        Description: Causes the specified player to drop their items on the ground nearby.
+        Usage: /tt dropper player-name
+        Usage Example: /tt dropper mcguy
+        Example Effect: mcguy would drop all his items on the ground.
+        Note: If the items cannot be safely dropped (would be dropped inside a wall) then it will notify you and their items will not be dropped.
+        
+    Explode:
+        Description: Causes the specified player to explode (will kill them and damage nearby blocks).
+        Usage: /tt explode player-name explosion-size(optional, default: 5)
+        Usage Example: /tt explode mcguy 20
+        Example Effect: mcguy would die in a huge explosion.
+        Note: Be careful with this command, it has high griefing potential, and a large enough explosion could cause a server crash.
+        
+    Hunger:
+        Description: Sets the specified player's hunger to a value from 0-20 (0 being starving, 20 being full).
+        Usage: /tt hunger player-name hunger-amount(optional 0-20, default: 0)
+        Usage Example: /tt hunger mcguy 10
+        Example Effect: mcguy would be at half hunger.
+        
